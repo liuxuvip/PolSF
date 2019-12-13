@@ -33,4 +33,12 @@ color = [[0,0,0], [0,0,255],[0,255,0],[255,0,0],[255,255,0],[255,0,255]]
 
 0, unlabel, 1,Water,2,Vegetation,3,High-Density Urban,4,Low-Density Urban,5,Developd
 
+# SF-AIRSAR
+
+https://www.ietr.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_AIRSAR.zip
+
+color = [[0,0,0], [0,255,255],[255,255,0],[0,0,255],[255,0,0],[0,255,0]]
+
+0, unlabel, 1,Montain,2,Water,3,Urban,4,Vegetation ,5, Bare soil
+
 # The file 'label2dto3d.py' shows the process of coloring.
