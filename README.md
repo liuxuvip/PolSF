@@ -33,4 +33,4 @@ color = [[0,0,0], [0,0,255],[0,255,0],[255,0,0],[255,255,0],[255,0,255]]
 
 0, unlabel, 1,Water,2,Vegetation,3,High-Density Urban,4,Low-Density Urban,5,Developd
 
-The file 'label2dto3d.py' shows the process of coloring.
+# The file 'label2dto3d.py' shows the process of coloring.
