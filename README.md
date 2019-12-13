@@ -1,6 +1,6 @@
 # PolSF
 # PolSAR dataset
-The original PolSAR data is downloaded from www.ietr.fr/polsarpro-bio/sanfrancisco.
+The original PolSAR data is downloaded from www.ietr.fr/polsarpro-bio/sanfrancisco. For the same region, San Francisco, images come from five different satellites and times
 
 Courtesy of CNSA, CSA, ESA, IECAS, ISRO, JAXA, MDA, NASA-JPL, NSOAS.
 
