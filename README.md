@@ -6,7 +6,7 @@ Courtesy of CNSA, CSA, ESA, IECAS, ISRO, JAXA, MDA, NASA-JPL, NSOAS.
 
 #the files SF-XXX include the ground truth (label2d), PauliRGB image, and the colored ground truth (label3d). Which is labeled by our team IPIU
 
-
+![image](https://github.com/liuxuvip/PolSF/blob/master/PolSF.png)
 
 
 #The color code, the class number and name are shown as follows:
