@@ -1,8 +1,8 @@
 # PolSF
 # PolSAR dataset
 The original PolSAR data is downloaded from www.ietr.fr/polsarpro-bio/sanfrancisco. For the same region, San Francisco, images come from five different satellites and times
-
-Courtesy of CNSA, CSA, ESA, IECAS, ISRO, JAXA, MDA, NASA-JPL, NSOAS.
+Courtesy of CNSA, CSA, ESA, IECAS, ISRO, JAXA, MDA, NASA-JPL, NSOAS. 
+Courtesy of Dr. Jili SUN, Dr. Bing HAN (IECAS), Dr. Xinzhe YUAN (NSOAS), Tao YAO (CNSA)
 
 #the files SF-XXX include the ground truth (label2d), PauliRGB image, and the colored ground truth (label3d). Which is labeled by our team IPIU
 
