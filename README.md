@@ -53,3 +53,15 @@ color = [[0,0,0], [0,255,255],[255,255,0],[0,0,255],[255,0,0],[0,255,0]]
 0, unlabel, 1,Montain,2,Water,3,Urban,4,Vegetation ,5, Bare soil
 
 # The file 'label2dto3d.py' shows the process of coloring.
+
+If you are interested, please refer to the article:
+
+Xu Liu, Licheng Jiao, Fang Liu. PolSF: PolSAR image dataset on San Francisco[J]. arXiv preprint arXiv:1912.07259, 2019.
+
+
+@article{xu2019polsf,
+  title={PolSF: PolSAR image dataset on San Francisco},
+  author={Liu, Xu and Jiao, Licheng and Liu, Fang},
+  journal={arXiv preprint arXiv:1912.07259},
+  year={2019}
+}
