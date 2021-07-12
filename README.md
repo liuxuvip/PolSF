@@ -1,6 +1,6 @@
 # PolSF
 # PolSAR dataset on San Francisco
-The original PolSAR data is downloaded from www.ietr.fr/polsarpro-bio/sanfrancisco. For the same region, San Francisco, images come from five different satellites and times.
+The original PolSAR data is downloaded from  https://ietr-lab.univ-rennes1.fr/polsarpro-bio/sanfrancisco. For the same region, San Francisco, images come from five different satellites and times.
 Courtesy of CNSA, CSA, ESA, IECAS, ISRO, JAXA, MDA, NASA-JPL, NSOAS. 
 Courtesy of Dr. Jili SUN, Dr. Bing HAN (IECAS), Dr. Xinzhe YUAN (NSOAS), Tao YAO (CNSA)
 
@@ -11,7 +11,7 @@ Courtesy of Dr. Jili SUN, Dr. Bing HAN (IECAS), Dr. Xinzhe YUAN (NSOAS), Tao YAO
 
 #The color code, the class number and name are shown as follows:
 # SF-ALOS2
-https://www.ietr.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_ALOS2.zip
+ https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_ALOS2.zip
 
 The cut region from the original image(736, 2832, 3520, 7888)% (x1,y1,x2,y2)
 
@@ -19,7 +19,7 @@ color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,25
 
 0, unlabel, 1,Montain,2,Water,3,Vegetation,4,High-Density Urban,5,Low-Density Urban,6,Developd
 # SF-GF3
-https://www.ietr.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_GF3.zip
+ https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_GF3.zip
 
 The cut region from the original image (1144, 3464, 3448, 6376)
 
@@ -27,7 +27,7 @@ color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,25
 
 0, unlabel, 1,Montain,2,Water,3,Vegetation,4,High-Density Urban,5,Low-Density Urban,6,Developd
 # SF-RISAT
-https://www.ietr.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_RISAT.zip
+ https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_RISAT.zip
 
 The cut region from the original image (2486, 4257, 7414, 10648)
 
@@ -36,7 +36,7 @@ color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,25
 0, unlabel, 1,Montain,2,Water,3,Vegetation,4,High-Density Urban,5,Low-Density Urban,6,Developd
 
 # SF-RS2
-https://www.ietr.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_RS2.zip
+ https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_RS2.zip
 
 The cut region from the original image (7326,661,9125,2040)
 
@@ -46,7 +46,7 @@ color = [[0,0,0], [0,0,255],[0,255,0],[255,0,0],[255,255,0],[255,0,255]]
 
 # SF-AIRSAR
 
-https://www.ietr.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_AIRSAR.zip
+ https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_AIRSAR.zip
 
 color = [[0,0,0], [0,255,255],[255,255,0],[0,0,255],[255,0,0],[0,255,0]]
 
