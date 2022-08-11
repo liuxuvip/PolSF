@@ -22,7 +22,7 @@ color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,25
 # SF-GF3
  https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_GF3.zip
 
-The cut region from the original image (1144, 3464, 3448, 6376)
+The cut region from the original image (1144, 3464, 3447, 6375)% (x1,y1,x2,y2)
 
 color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,255,0]]
 
@@ -30,7 +30,7 @@ color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,25
 # SF-RISAT
  https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_RISAT.zip
 
-The cut region from the original image (2486, 4257, 7414, 10648)
+The cut region from the original image (2486, 4257, 7414, 10648)% (x1,y1,x2,y2)
 
 color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,255,0]]
 
@@ -39,7 +39,7 @@ color = [[0,0,0],[132,112,255],[0,0,255],[0,255,0],[192,0,0],[0,255,255],[255,25
 # SF-RS2
  https://ietr-lab.univ-rennes1.fr/polsarpro-bio/san-francisco/dataset/SAN_FRANCISCO_RS2.zip
 
-The cut region from the original image (7326,661,9125,2040)
+The cut region from the original image (7326,661,9125,2040)% (x1,y1,x2,y2)
 
 color = [[0,0,0], [0,0,255],[0,255,0],[255,0,0],[255,255,0],[255,0,255]]
 
