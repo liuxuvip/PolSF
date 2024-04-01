@@ -57,12 +57,13 @@ color = [[0,0,0], [0,255,255],[255,255,0],[0,0,255],[255,0,0],[0,255,0]]
 
 If you are interested, please refer to the article:
 
-Xu Liu, Licheng Jiao, Fang Liu, Xin Hou, Dan Zhang, Xu Tang. PolSF: PolSAR image dataset on San Francisco[J]. arXiv preprint arXiv:1912.07259, 2019.
+Xu Liu, Licheng Jiao, Fang Liu, Dan Zhang, Xu Tang. PolSF: PolSAR image datasets on san Francisco[C]//International Conference on Intelligence Science. Cham: Springer International Publishing, 2022: 214-219.
 
-
-@article{xu2019polsf,
-  title={PolSF: PolSAR image dataset on San Francisco},
-  author={Liu, Xu and Jiao, Licheng and Liu, Fang and Hou, Xin and Zhang, Dan and Tang, Xu},
-  journal={arXiv preprint arXiv:1912.07259},
-  year={2019}
+@inproceedings{liu2022polsf,
+  title={PolSF: PolSAR image datasets on san Francisco},
+  author={Liu, Xu and Jiao, Licheng and Liu, Fang and Zhang, Dan and Tang, Xu},
+  booktitle={International Conference on Intelligence Science},
+  pages={214--219},
+  year={2022},
+  organization={Springer}
 }
